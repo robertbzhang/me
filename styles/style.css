@@ -1,6 +1,12 @@
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto', sans-serif;
+body {
+  font-family: 'Roboto', sans-serif;
 }
-p, div {
-    font-family: 'Roboto', sans-serif;
+a {
+  color: #FF851B;
+  font-weight:100;
+  font-size:200%;
+}
+a:hover {
+  text-decoration: none;
+  color: #FF851B;
 }
